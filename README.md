@@ -4,7 +4,7 @@ ZENU is an extensive Lua script that utilizes [paru](https://github.com/Morganam
 
 <img width="1000" height="1100" alt="2026-07-13-130522_hyprshot" src="https://github.com/user-attachments/assets/0869944b-b7da-4323-97e2-1a53d97b6bff" />
 
-The script functions are clearly stated in the header, and they should be sufficient for basic operations, such as flagging for bulk syncing, simultaneous adds/removals and filtering. Explained as follows:
+The script functions are clearly stated in the header, and they should be sufficient for basic operations, such as flagging for bulk syncing, simultaneous additions/removals and filtering. Explained as follows:
 
 - Flag: This function marks a package for syncing, since you can have multiple operations staged in one go.
 - Invert: Simply inverts your flags, useful for when you want to sync all available updates except for a few, in which case you select the ones you don't want to sync, then invert your selection.
