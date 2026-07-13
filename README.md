@@ -14,4 +14,4 @@ The script functions are clearly stated in the header, and they should be suffic
 - Sync: Once you have your desired packages flagged for addition/removal, Sync will take care of the rest with no confirmation prompts except for installing packages. In which case, you'll only be prompted once more as a final confirmation.
 
 > [!NOTE]
-> At least one installed [nerd font](https://www.nerdfonts.com/) is recommended in order to see the Download and Remove indicator glyphs as seen in the preview.
+> At least one installed [nerd font](https://www.nerdfonts.com/) is recommended in order to see the Download and Remove indicator glyphs as seen in the preview. Otherwise -while it won't break the script- you will, however, see artifacts in the glyphs' stead.
