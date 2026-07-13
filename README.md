@@ -1,6 +1,6 @@
 A one-stop package management solution for Arch-based platforms and a part of the [ZENWORKS](https://github.com/kbuckleys/zenWORKS) Suite.
 
-ZENU is an extensive Lua script that utilizes [paru](https://github.com/Morganamilo/paru) and [fzf](https://github.com/junegunn/fzf) to deliver a complete, minimal and convenient TUI solution for your package queries, management and updates.
+ZENU is an extensive Lua script that utilizes [paru](https://github.com/Morganamilo/paru) and [fzf](https://github.com/junegunn/fzf) to deliver a complete, minimal and convenient TUI solution for your Arch package queries, management and updates. And since it solely uses paru, it inherently covers the official repos as well as the AUR. However, the script won't install paru on its own and you must have it installed beforehand in order for the script to work.
 
 <img width="1000" height="1100" alt="2026-07-13-130522_hyprshot" src="https://github.com/user-attachments/assets/0869944b-b7da-4323-97e2-1a53d97b6bff" />
 
