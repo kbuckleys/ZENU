@@ -13,5 +13,5 @@ The script functions are clearly stated in the header, and they should be suffic
 - Update/Manage: A toggle switch between the package manager and the update manager.
 - Sync: Once you have your desired packages flagged for addition/removal, Sync will take care of the rest with no confirmation prompts except for installing packages. In which case, you'll only be prompted once more as a final confirmation.
 
-> [!CAUTION]
+> [!NOTE]
 > At least one installed [nerd font](https://www.nerdfonts.com/) is recommended in order to see the Download and Remove indicator glyphs as seen in the preview.
