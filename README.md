@@ -9,12 +9,12 @@ A one-stop package management solution for Arch-based platforms and a part of th
 <table>
   <tr>
     <td align="center">
-      <img width="1000" height="1100" alt="2026-07-13-130522_hyprshot" src="https://github.com/user-attachments/assets/0869944b-b7da-4323-97e2-1a53d97b6bff" />
+      <img width="1000" height="1100" alt="2026-07-14-120907_hyprshot" src="https://github.com/user-attachments/assets/fb18c7c5-8086-4bdd-ac1c-055f04394726" />
       <br/>
       <b>Package Manager</b>
     </td>
     <td align="center">
-      <img width="1000" height="1100" alt="2026-07-14-091811_hyprshot" src="https://github.com/user-attachments/assets/b6283ec9-529c-49ee-8d5e-1d5f970de3cf" />
+      <img width="1000" height="1100" alt="2026-07-14-120934_hyprshot" src="https://github.com/user-attachments/assets/0d33c95b-ee40-41c0-9e7e-9186e1f51bb9" />
       <br/>
       <b>Update Manager</b>
     </td>
