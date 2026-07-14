@@ -2,7 +2,20 @@ A one-stop package management solution for Arch-based platforms and a part of th
 
 <b>ZENU</b> is an extensive Lua script that utilizes [paru](https://github.com/Morganamilo/paru) and [fzf](https://github.com/junegunn/fzf) to deliver a complete, minimal and convenient TUI solution for your Arch package queries, management and updates. The script will also automatically check whether fzf and paru are installed, if not; fzf will be installed automatically and then you'll be prompted with a choice between paru and paru-git, which ZENU will also install for you. In other words, you just make the script executable and run it. No need to worry about dependencies.
 
-<img width="1000" height="1100" alt="2026-07-13-130522_hyprshot" src="https://github.com/user-attachments/assets/0869944b-b7da-4323-97e2-1a53d97b6bff" />
+<table>
+  <tr>
+    <td align="center">
+      <img width="1000" height="1100" alt="2026-07-13-130522_hyprshot" src="https://github.com/user-attachments/assets/0869944b-b7da-4323-97e2-1a53d97b6bff" />
+      <br/>
+      <b>Package Manager</b>
+    </td>
+    <td align="center">
+      <img width="1000" height="1100" alt="2026-07-14-091811_hyprshot" src="https://github.com/user-attachments/assets/b6283ec9-529c-49ee-8d5e-1d5f970de3cf" />
+      <br/>
+      <b>Update Manager</b>
+    </td>
+  </tr>
+</table> 
 
 The script almost does it all, from flagging for bulk syncing, simultaneous additions/removals to filtering and bulk/selective updating. Explained as follows:
 
