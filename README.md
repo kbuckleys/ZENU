@@ -1,4 +1,6 @@
-A one-stop package management solution for Arch-based platforms and a part of the [ZENWORKS](https://github.com/kbuckleys/ZENWORKS) Suite.
+<h3><p align="center">
+A one-stop package management solution for Arch-based platforms and a part of the <a href="https://github.com/kbuckleys/ZENWORKS">ZENWORKS</a> Suite
+</p></h3>
 
 ---
 
