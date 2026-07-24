@@ -1,5 +1,7 @@
 <h3><p align="center">
-A one-stop package management solution for Arch-based platforms and a part of the <a href="https://github.com/kbuckleys/ZENWORKS">ZENWORKS</a> Suite
+A one-stop package management solution for Arch-based platforms
+<br>
+Part of the <a href="https://github.com/kbuckleys/ZENWORKS">ZENWORKS</a> Suite
 </p></h3>
 
 ---
