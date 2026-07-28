@@ -11,7 +11,7 @@ Part of the <a href="https://github.com/kbuckleys/ZENWORKS">ZENWORKS</a> Suite
 
 ---
 
-<b>ZENU</b> is an extensive Lua script that utilizes [paru](https://github.com/Morganamilo/paru) and [fzf](https://github.com/junegunn/fzf) to deliver a complete, minimal and convenient TUI solution for your Arch package queries, management and updates. The script will also automatically check whether fzf and paru are installed, if not; fzf will be installed automatically and then you'll be prompted with a choice between paru and paru-git, which ZENU will also install for you. In other words, you just make the script executable and run it. No need to worry about dependencies.
+An extensive Lua script that utilizes [paru](https://github.com/Morganamilo/paru) and [fzf](https://github.com/junegunn/fzf) to deliver a complete, minimal and convenient TUI solution for your Arch package queries, management and updates. The script will also automatically check whether fzf and paru are installed, if not; fzf will be installed automatically and then you'll be prompted with a choice between paru and paru-git, which ZENU will also install for you. In other words, you just make the script executable and run it. No need to worry about dependencies.
 
 <br>
 
