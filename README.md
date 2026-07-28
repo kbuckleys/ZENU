@@ -30,15 +30,10 @@ Part of the <a href="https://github.com/kbuckleys/ZENWORKS">ZENWORKS</a> Suite
 The script almost does it all, from flagging for bulk syncing, simultaneous additions/removals to filtering and bulk/selective updating. Explained as follows:
 
 - <b>Flag:</b> This function marks a package for syncing, since you can have multiple operations staged in one go.
-  
 - <b>Invert:</b> Simply inverts your flags, useful for when you want to sync all available updates except for a few, in which case you select the ones you don't want to sync, then invert your selection.
-  
 - <b>Clear:</b> Well this one is pretty clear, eh? Get it? But yes, it will clear all flags.
-  
 - <b>Source:</b> A filter that toggles between all packages and only installed/local packages.
-  
 - <b>Update/Manage:</b> A toggle switch between the package manager and the update manager.
-  
 - <b>Sync:</b> Once you have your desired packages flagged for addition/removal, Sync will take care of the rest with no confirmation prompts except for installing packages. In which case, you'll only be prompted once more as a final confirmation.
 
 <br>
