@@ -1,3 +1,8 @@
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cad25b15-fdcc-4438-9011-204546dc535b">
+  <img src="image-light.png" alt="">
+</picture></p>
+
 <h3><p align="center">
 A one-stop package management solution for Arch-based platforms
 <br>
