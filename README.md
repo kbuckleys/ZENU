@@ -18,12 +18,12 @@ An extensive Lua script that utilizes [paru](https://github.com/Morganamilo/paru
 <table>
   <tr>
     <td align="center">
-      <img width="1000" height="1100" alt="2026-07-14-120907_hyprshot" src="https://github.com/user-attachments/assets/fb18c7c5-8086-4bdd-ac1c-055f04394726" />
+      <img width="1000" height="1100" alt="2026-07-14-120907_hyprshot" src="https://github.com/user-attachments/assets/2ff1a35c-dcf6-4665-b3d6-43fa5f520da6" />
       <br/>
       <b>Package Manager</b>
     </td>
     <td align="center">
-      <img width="1000" height="1100" alt="2026-07-14-120934_hyprshot" src="https://github.com/user-attachments/assets/0d33c95b-ee40-41c0-9e7e-9186e1f51bb9" />
+      <img width="1000" height="1100" alt="2026-07-14-120934_hyprshot" src="https://github.com/user-attachments/assets/6f668e86-88cc-4a9d-9ad2-402e50413359" />
       <br/>
       <b>Update Manager</b>
     </td>
@@ -39,6 +39,7 @@ The script almost does it all, from flagging for bulk syncing, simultaneous addi
 - <b>Clear:</b> Well this one is pretty clear, eh? Get it? But yes, it will clear all flags.
 - <b>Source:</b> A filter that toggles between all packages and only installed/local packages.
 - <b>Update/Manage:</b> A toggle switch between the package manager and the update manager.
+- <b>Maintenance Panel:</b> Manage your caches, orphaned packages, and more
 - <b>Sync:</b> Once you have your desired packages flagged for addition/removal, Sync will take care of the rest with no confirmation prompts except for installing packages. In which case, you'll only be prompted once more as a final confirmation.
 
 <br>
